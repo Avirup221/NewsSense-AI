@@ -18,10 +18,9 @@ It delivers insights through an **interactive Streamlit app** for real-time use.
 
 ## 🏗️ Tech Stack  
 - **LangChain** – Orchestration of LLMs, RAG, and agents.  
-- **OpenAI GPT / HuggingFace Models** – For text generation.  
+- **Gemini / HuggingFace Models** – For text generation.  
 - **Chroma / FAISS** – Vector database for retrieval.  
 - **Wikipedia API / NewsAPI** – Fact-checking and external references.  
-- **Streamlit / Gradio** – User interface.  
 
 ---
 
